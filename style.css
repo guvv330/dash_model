@@ -390,7 +390,7 @@ nav .profile-details i{
     margin-bottom: 15px;
   }
 }
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   nav .sidebar-button .dashboard,
   nav .profile-details .admin_name,
   nav .profile-details i{
